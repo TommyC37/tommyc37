@@ -1,10 +1,8 @@
-<img align="right" style="float: right;" src="cobb_codes_logo_07.png" height=200px>
+<img align="right" style="float: right;" src="cobb_codes_logo_07.png" width=400px>
 <h1 align="left" style="float: left;">Hello there! 👋</h1>
 
 
-### My name is Tom.
-
-I'm a full stack web developer.
+My name is Tom. I'm a full stack web developer.
 
 ### My skills
 
