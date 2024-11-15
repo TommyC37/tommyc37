@@ -1,4 +1,4 @@
-<img align="right" style="float: right;" src="cobb_codes_logo_07.png" width=400px>
+[//]: <> (<img align="right" style="float: right;" src="cobb_codes_logo_07.png" width=400px>)
 <h1 align="left" style="float: left;">Hello there! 👋</h1>
 
 
