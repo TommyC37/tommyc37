@@ -2,7 +2,7 @@
 <h1 align="left" style="float: left;">Hello there! 👋</h1>
 
 
-My name is Tom and I'm a pythonaholic.
+☁️ I'm Tom, future cloud engineer ☁️
 
 ### My skills
 
@@ -16,10 +16,8 @@ My name is Tom and I'm a pythonaholic.
 
 ### About me
 
-- ⚡ Sales, marketing, and operations dude turned entrepeneurial coder.
-- 🎮 I’m building an video game company called **Eager Gest** -- more details soon!
-- 🌱 Currently learning **Django**.
-- 👯 I’d love to collab with folks who know
+- ⚡ Changing careers from Sales/Marketing/RevOps --> Cloud Engineer
+- 🌱 Currently learning **AWS Cloud**.
 - 📫 How to reach me: tom@tomcobbcodes.com
-- 🤔 I’m looking for help with **Procedural Animation**
-- 💬 Ask me about sales and marketing ops
+- 🤔 I’m looking for help with **Network Security**
+- 💬 Ask me about Python
