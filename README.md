@@ -4,6 +4,8 @@
 
 ☁️ I'm Tom, future cloud engineer ☁️
 
+[Check out my cloud resume](https://www.tomcobb.net/)
+
 ### My skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
